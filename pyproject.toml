@@ -1,0 +1,9 @@
+[project]
+name = "prompt-tester-py"
+version = "0.1.0"
+license.file = "LICENSE"
+requires-python = ">=3.13"
+dependencies = [
+    "openai>=1.76.2",
+    "pre-commit>=4.2.0",
+]
